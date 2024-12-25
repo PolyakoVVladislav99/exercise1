@@ -24,7 +24,6 @@ fun main() {
         }
     }
 
-    // Добавляем последний символ
     result.append(currentChar)
     if (count > 1) {
         result.append(count)
